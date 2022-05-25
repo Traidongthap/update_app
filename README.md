@@ -1,4 +1,4 @@
-{"newVersion": "4.0-build5",
- "apkUrl": "http://google.com",
- "versionNotes": "Ok\n haha"
+{"appnew": "4.0-build5",
+ "link": "http://google.com",
+ "Thông tin": "Ok\n haha"
 }
